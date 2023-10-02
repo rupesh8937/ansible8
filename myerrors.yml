@@ -4,7 +4,7 @@
   tasks: 
   - name: install git
     apt:
-      namee: git
+      name: git
     ignore_errors: yes
 
   - name: install tree
